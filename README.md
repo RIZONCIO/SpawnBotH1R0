@@ -20,6 +20,7 @@ __OBS:__(As mensagens são repetitivas não são um bot pré programado , que vo
 ![Velocidade Da mensagem](https://github.com/RIZONCIO/SpawnBotH1R0/assets/61835786/e8216fe3-7be1-40aa-8d6f-cfb68bcba8b6)
 
 > A que pedi Para você só dar um tempo que você vai demorar para chegar no chat de mensagem de uma pessoa:
+
 ![Tempo de espera para iniciar o Bot](https://github.com/RIZONCIO/SpawnBotH1R0/assets/61835786/6879762b-8a4f-4b7f-82a5-7213d2819b4f)
 
 > Na hora que você apertar ok Ele mandará mensagem automaticamente depois do tempo determinado:
