@@ -33,8 +33,11 @@ __OBS:__(As mensagens são repetitivas não são um bot pré programado , que vo
 ###Alertas
 
 __OBS:__(Não coloque textos com muito caracteres para que não tenha problema de repartição ou até mesmo na hora de mandar mensagem).
+
 __OBS:__(Cuidado não coloque números exorbitantes, Para que seu PC não trave ).
+
 __OBS:__(Favor evitar colocar textos grandes e colocar um tempo muito curto se não pode travar o seu PC).
+
 __OBS:__(Recomendo que você já esteja com o chat Aberto para que você possa mandar mensagem).
 
 É o projeto é bem simplesinho obviamente,obrigado por ter lido e espero que tenha gostado do projeto. 
