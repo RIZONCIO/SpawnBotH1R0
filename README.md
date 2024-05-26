@@ -26,8 +26,8 @@ __OBS:__(As mensagens são repetitivas não são um bot pré programado , que vo
 ![Mgs de inicialização](https://github.com/RIZONCIO/SpawnBotH1R0/assets/61835786/5969c345-7215-4ca1-9f0f-0e54f7a8a00c)
 
 > Demonstração:
+![Bot H1R0](https://github.com/RIZONCIO/SpawnBotH1R0/assets/61835786/d70bf2c9-8522-445f-8856-3c537d6236fc)
 
-https://github.com/RIZONCIO/SpawnBotH1R0/assets/61835786/fd0a4910-7c3d-46f5-9734-f5e2c267a51d
 
 ###Alertas
 
